@@ -4,9 +4,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2hxMG5tZTd3Zjh2Z3p3emJlN2xzYXFtcndlZWhyMWF4aGk3aHhpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AvvYYEmamjle51oMQ4/giphy.gif" alt="UFC Prediction Demo" width="600">
-</p>
+<p align="center"> <img src="https://media1.tenor.com/m/d8S_WNHEx9wAAAAC/jorge-masvidal-masvidal.gif" alt="UFC Prediction Demo" width="600"> </p>
 
 ## 🎯 Project Overview
 
